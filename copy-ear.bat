@@ -1,0 +1,1 @@
+copy /y C:\workspaces\sky-challenge\sky-webapp-ear\target\sky-challenge.ear C:\application-servers\jboss-eap-6.4\standalone\deployments
